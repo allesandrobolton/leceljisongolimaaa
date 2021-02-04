@@ -1,0 +1,4 @@
+baseURL = "https://carmdxpoxotipe.vercel.app"
+languageCode = "en-us"
+title = "Acura MDX 2021"
+theme = "hugo-theme-minos"
